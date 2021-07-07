@@ -1,0 +1,81 @@
+body{
+    background-image: url(https://image.freepik.com/free-photo/milky-way-beautiful-crystal-clean-sky_23-2148283408.jpg);
+}
+
+li{
+    list-style: none;
+}
+    
+ .header{
+     color: aqua;
+     height: 90px;
+     background-color:blue;
+    
+ }
+
+ .header-logo{
+    float: left;
+     padding: 20px 40px;
+     font-size: 30px;
+ }
+ .header-list li{
+    float: left;
+    color: azure;
+    padding: 32px 20px;
+ }
+
+.main{
+    padding: 100px 80px;
+    
+}
+
+.copy-container h1{
+    font-size: 124px;
+}
+
+.copy-container h2{
+    font-size: 72px;
+    padding-top: 32px;
+}
+
+.contents{
+    height: 750px;
+    width:  750px;
+}
+
+.contents-title{
+    font-size: 32px;
+    border-bottom: 3px solid gray;
+}
+
+
+.contents-item{
+    float: left;
+}
+
+
+ .footer{
+     color: white;
+     background-color: violet;
+     height: 148px;
+     
+ }
+ 
+ .footer-logo{
+     font-size: 24px;
+     float: left;
+
+ }
+
+ .footer-list{
+     font-size: 16px;
+     float: right;
+ }
+
+ .footer-list li{
+     padding-bottom: 24px;
+ }
+
+ span{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
